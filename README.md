@@ -14,6 +14,6 @@ Meu nome é Brunno Gatelli de Olivera
 
 @brunno.oliveira@escola.pr.gov.br
 
-@brunno_gk
+[@brunno_gk](https://www.instagram.com/)
 
 ![clashroyale](https://github.com/user-attachments/assets/3dc71228-04d5-4c68-9485-367ac500ff10)
