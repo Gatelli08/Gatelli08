@@ -2,7 +2,7 @@
 
 Meu nome é Brunno Gatelli de Olivera
 
--Estou estudando no Alura
+-Estou estudando no [Alura](https://www.alura.com.br)
 
 -Estou me desnvolvendo na linguagem JavaScript
 
